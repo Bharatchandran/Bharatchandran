@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bharatchandran&label=Profile%20views&color=0e75b6&style=flat" alt="bharatchandran" /> </p>
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m a junior Java Developer
 
 - 👯 I’m looking to collaborate on **Full stack application (Open Source )**
 
